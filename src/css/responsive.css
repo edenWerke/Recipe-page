@@ -1,0 +1,22 @@
+@media(max-width: 715px) {
+
+    body {
+        margin: 0;
+    }
+
+    .recipe-container {
+        width: 100%;
+        margin: 0;
+    }
+
+    .recipe-box {
+        width: 100%;
+    }
+
+    .recipe-box img {
+        padding: 0;
+        width: 100vw;
+        height: auto;
+        border-radius: 0;
+    }
+}
